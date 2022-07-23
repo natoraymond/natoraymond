@@ -1,0 +1,19 @@
+body {  
+  background-color:pink;
+  text-align:center;
+ 
+}
+
+.btn{
+padding:5px;
+width:20%;
+}
+
+.layout{
+  background-color: blue;
+  width: 50%;
+  margin:15%;
+  padding: 5%;
+  color: white;
+  border-radius: 10px;
+}
