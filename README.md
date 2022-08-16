@@ -8,7 +8,7 @@
 ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
       
-      <h3>PROGRAMMING LANGUAGES</h3>
+  <h3>PROGRAMMING LANGUAGES</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
