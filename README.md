@@ -26,7 +26,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
 
+
 <h2>DevOps</h2>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=social)
+https://badges.netlify.com/api/site-name.svg?branch=master
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
