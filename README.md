@@ -30,7 +30,9 @@
 <h2>DevOps</h2>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=social)
-![Netlify](https://badges.netlify.com/api/site-name.svg?branch=master)
+[![Build Status](https://badges.netlify.com/api/site-name.svg?branch=master)](https://app.netlify.com/sites/site-name/deploys)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
