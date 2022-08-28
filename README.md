@@ -2,8 +2,9 @@
 
 # Hi, I am Nato
   <h2>LETS CONNECT</h2>
-  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)
+ 
+ <a href="https://www.linkedin.com/in/ekene-akubue-58046b77/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)
 ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
