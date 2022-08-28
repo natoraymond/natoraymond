@@ -30,14 +30,16 @@
   ##### DevOps
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-<h2>DevOps</h2>
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
-[![Build Status](https://badges.netlify.com/api/site-name.svg?branch=master)](https://app.netlify.com/sites/site-name/deploys)
   
+  ##### IDE's & EDITORS
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Notepad++](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
